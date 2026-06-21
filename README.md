@@ -34,6 +34,8 @@ The BMI Calculator is a simple Python program that calculates a user's Body Mass
 * Normal Weight: BMI between 18.5 and 24.9
 * Overweight: BMI between 25 and 29.9
 * Obese: BMI 30 or above
+
 =======
 # OIBSIP
 Python projects completed during the Oasis Infobyte Internship Program.
+
