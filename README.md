@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BMI Calculator
 
 ## Overview
@@ -38,4 +37,3 @@ The BMI Calculator is a simple Python program that calculates a user's Body Mass
 =======
 # OIBSIP
 Python projects completed during the Oasis Infobyte Internship Program.
->>>>>>> c5334765796a3d53c42fef88fbf38f0f8b2a1cb8
